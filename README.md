@@ -1,138 +1,71 @@
-# 🚀 Step-by-Step Guide: Setting Up Your GitHub Profile
+<!-- Banner / Introduction -->
+<h1 align="center">Hi, I'm Peter Kihugu 👋</h1>
+<h3 align="center">Frontend Engineer in the Making | ALX Learner | Creative Problem Solver</h3>
 
-## 📋 **What You're Going to Do**
-You're going to create a special repository that GitHub automatically displays as your profile README. When people visit your GitHub profile, they'll see this instead of just your repositories.
-
----
-
-## 🎯 **Step 1: Create the Special Repository**
-
-1. **Go to GitHub.com and log in** to your account (PeterKihugu)
-
-2. **Click the green "New" button** (or the "+" icon in the top right corner)
-
-3. **Create a repository with these EXACT settings:**
-   - **Repository name**: `PeterKihugu` (must match your username exactly!)
-   - **Description**: "My GitHub Profile README"
-   - **Set to Public** (very important!)
-   - **✅ Check "Add a README file"**
-   - **Don't add .gitignore or license for now**
-
-4. **Click "Create repository"**
-
-🎉 **You'll see a message saying**: *"You found a secret! PeterKihugu/PeterKihugu is a special repository that appears on your GitHub profile!"*
+<p align="center">
+  <em>
+    "In 4 months, I am a confident frontend engineer—debugging with ease, presenting with clarity, and bringing creativity into every project I build."
+  </em>
+</p>
 
 ---
 
-## 📝 **Step 2: Replace the README Content**
+<!-- About Me -->
+## 👨‍💻 About Me  
 
-1. **You should now be in your new repository**. You'll see a file called `README.md`
-
-2. **Click on the `README.md` file** to open it
-
-3. **Click the pencil icon (✏️)** in the top right corner to edit the file
-
-4. **Delete all the current content** (it's probably just basic text)
-
-5. **Copy the entire template** from the previous artifact I created for you
-
-6. **Paste it into the README.md editor**
+- 🌱 Currently mastering **Frontend Development** at **ALX Africa**  
+- 💡 Passionate about building **accessible, creative, and user-friendly web apps**  
+- 🎯 Goal: Become a confident **Frontend Engineer** by December 2025  
+- ⚡ Fun fact: I debug with snacks at my side 🍫  
 
 ---
 
-## 💾 **Step 3: Save Your Changes**
+<!-- Skills -->
+## 🛠️ Tech Stack  
 
-1. **Scroll down to the bottom** of the edit page
-
-2. **In the "Commit changes" section:**
-   - **Commit message**: "Add professional profile README"
-   - **Description** (optional): "Initial setup of my professional GitHub profile"
-
-3. **Click "Commit changes"**
-
----
-
-## 🎨 **Step 4: View Your New Profile**
-
-1. **Go to your profile** by clicking on your profile picture in the top right, then "Your profile"
-   
-   OR
-   
-   **Go directly to**: `https://github.com/PeterKihugu`
-
-2. **You should now see your beautiful new profile!** 🎉
+<p align="center">
+  <!-- Core Skills -->
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7E017?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  
+  <!-- Tools -->
+  <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-0078D7?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+</p>
 
 ---
 
-## 🔧 **Step 5: Fix Any Issues (If Needed)**
+<!-- Projects -->
+## 🚀 Featured Projects  
 
-### **If images aren't showing:**
-- Wait 5-10 minutes, GitHub sometimes takes time to load external images
-- Refresh the page
+- 🎨 **[Portfolio Website](https://github.com/PeterKihugu/portfolio)**  
+  *A sleek personal portfolio showcasing my frontend journey, projects, and creativity.*  
 
-### **If GitHub stats are blank:**
-- This is normal for new repositories
-- They'll populate as you make more commits and contributions
+- 🛍️ **[E-commerce Landing Page](https://github.com/PeterKihugu/ecommerce-landing-page)**  
+  *Responsive design with dynamic UI interactions and smooth animations.*  
 
-### **If something looks broken:**
-- Go back to your repository: `https://github.com/PeterKihugu/PeterKihugu`
-- Click on README.md and edit it again
-- Check for any copy-paste formatting issues
+- 📊 **[Dashboard App](https://github.com/PeterKihugu/dashboard-app)**  
+  *Data visualization and responsive layout built with React.*  
 
----
-
-## 📱 **Step 6: Test on Mobile**
-Your profile should look great on mobile too! Check it out on your phone.
+*(More projects coming as I grow my skills at ALX!)*
 
 ---
 
-## 🎯 **Step 7: Optional Improvements**
+<!-- GitHub Stats -->
+## 📈 GitHub Insights  
 
-### **Add a Profile Picture:**
-1. Click your profile picture → "Settings"
-2. Click "Profile" on the left sidebar
-3. Upload a professional photo
-
-### **Update Your Bio:**
-1. In the same Profile settings
-2. Add a short bio like: "ALX Frontend Engineering Student | Future Frontend Developer | Nairobi, Kenya"
-
-### **Pin Important Repositories:**
-1. Go to your main profile
-2. Click "Customize your pins"
-3. Select your best projects to display
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=PeterKihugu&show_icons=true&theme=radical" alt="GitHub stats" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PeterKihugu&theme=radical" alt="GitHub streak" height="165" />
+</p>
 
 ---
 
-## ✅ **Quick Checklist - You're Done When:**
+<!-- Connect -->
+## 🤝 Connect With Me  
 
-- [ ] Repository named `PeterKihugu` exists
-- [ ] Repository is public
-- [ ] README.md contains the full template
-- [ ] You can see the profile when you visit github.com/PeterKihugu
-- [ ] All the formatting looks correct
-- [ ] Your name, email, and LinkedIn show correctly
-
----
-
-## 🆘 **Troubleshooting**
-
-**Problem**: "Repository already exists"
-**Solution**: You might have created it before. Go to github.com/PeterKihugu/PeterKihugu and edit the existing README.md
-
-**Problem**: Profile isn't showing
-**Solution**: Make sure the repository is named exactly `PeterKihugu` and is set to public
-
-**Problem**: Images not loading
-**Solution**: Wait a few minutes and refresh. External images sometimes take time.
-
-**Problem**: Formatting looks weird
-**Solution**: Go back and edit the README.md file, check for any extra spaces or missing line breaks
-
----
-
-## 🎉 **You're All Set!**
-
-Once you complete these steps, you'll have a professional GitHub profile that will impress recruiters and showcase your journey as an ALX Frontend Engineering student!
-
-**Your profile will be live at**: `https://github.com/PeterKihugu`
+<p align="center">
+  <a href="https://www.linkedin.com/in/pet
