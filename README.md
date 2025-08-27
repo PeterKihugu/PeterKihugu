@@ -10,27 +10,22 @@
 
 ---
 
-<!-- About Me -->
 ## 👨‍💻 About Me  
 
 - 🌱 Currently mastering **Frontend Development** at **ALX Africa**  
 - 💡 Passionate about building **accessible, creative, and user-friendly web apps**  
-- 🎯 Goal: Become a confident **Frontend Engineer** by December 2025  
+- 🎯 Goal: Become a confident **Frontend Engineer** by **December 2025**  
 - ⚡ Fun fact: I debug with snacks at my side 🍫  
 
 ---
 
-<!-- Skills -->
 ## 🛠️ Tech Stack  
 
 <p align="center">
-  <!-- Core Skills -->
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7E017?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  
-  <!-- Tools -->
   <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/VS%20Code-0078D7?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
@@ -38,7 +33,6 @@
 
 ---
 
-<!-- Projects -->
 ## 🚀 Featured Projects  
 
 - 🎨 **[Portfolio Website](https://github.com/PeterKihugu/portfolio)**  
@@ -50,11 +44,10 @@
 - 📊 **[Dashboard App](https://github.com/PeterKihugu/dashboard-app)**  
   *Data visualization and responsive layout built with React.*  
 
-*(More projects coming as I grow my skills at ALX!)*
+*(More projects coming soon as I grow my skills at ALX!)*
 
 ---
 
-<!-- GitHub Stats -->
 ## 📈 GitHub Insights  
 
 <p align="center">
@@ -64,8 +57,16 @@
 
 ---
 
-<!-- Connect -->
 ## 🤝 Connect With Me  
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/pet
+  <a href="https://www.linkedin.com/in/peter-kihugu"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/></a>
+  <a href="mailto:peter.kihugu@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://twitter.com/peter_kihugu"><img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=twitter"/></a>
+</p>
+
+---
+
+<p align="center">
+  ✨ *“Building one project at a time, leveling up every day.”* ✨
+</p>
