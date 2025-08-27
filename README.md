@@ -35,16 +35,14 @@
 
 ## 🚀 Featured Projects  
 
-- 🎨 **[Portfolio Website](https://github.com/PeterKihugu/portfolio)**  
+- 🎨 **Portfolio Website** *(coming soon)*  
   *A sleek personal portfolio showcasing my frontend journey, projects, and creativity.*  
 
-- 🛍️ **[E-commerce Landing Page](https://github.com/PeterKihugu/ecommerce-landing-page)**  
+- 🛍️ **E-commerce Landing Page** *(coming soon)*  
   *Responsive design with dynamic UI interactions and smooth animations.*  
 
-- 📊 **[Dashboard App](https://github.com/PeterKihugu/dashboard-app)**  
+- 📊 **Dashboard App** *(coming soon)*  
   *Data visualization and responsive layout built with React.*  
-
-*(More projects coming soon as I grow my skills at ALX!)*
 
 ---
 
@@ -62,7 +60,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/peter-kihugu"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/></a>
   <a href="mailto:peter.kihugu@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://twitter.com/peter_kihugu"><img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=twitter"/></a>
+  <a href="https://sites.google.com/view/peterngaruiya/home"><img src="https://img.shields.io/badge/Website-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
 </p>
 
 ---
